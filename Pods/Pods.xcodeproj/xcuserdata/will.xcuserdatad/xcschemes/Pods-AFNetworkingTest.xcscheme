@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0700"
+   LastUpgradeVersion = "0640"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BE045BBC1B3B49F200F12477"
-               BuildableName = "AFNetworkingTest.app"
-               BlueprintName = "AFNetworkingTest"
-               ReferencedContainer = "container:AFNetworkingTest.xcodeproj">
+               BlueprintIdentifier = "81F7AD6FBD84B307E5B427B7"
+               BuildableName = "libPods-AFNetworkingTest.a"
+               BlueprintName = "Pods-AFNetworkingTest"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,17 +29,6 @@
       buildConfiguration = "Debug">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BE045BBC1B3B49F200F12477"
-            BuildableName = "AFNetworkingTest.app"
-            BlueprintName = "AFNetworkingTest"
-            ReferencedContainer = "container:AFNetworkingTest.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -49,18 +38,7 @@
       buildConfiguration = "Debug"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
-      debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BE045BBC1B3B49F200F12477"
-            BuildableName = "AFNetworkingTest.app"
-            BlueprintName = "AFNetworkingTest"
-            ReferencedContainer = "container:AFNetworkingTest.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +48,6 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BE045BBC1B3B49F200F12477"
-            BuildableName = "AFNetworkingTest.app"
-            BlueprintName = "AFNetworkingTest"
-            ReferencedContainer = "container:AFNetworkingTest.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
